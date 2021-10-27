@@ -1,0 +1,29 @@
+# PREGUNTA 1 --------------------------------------------------------------
+## Carga las librerías necesarias, debe realizarlo en UNA SOLA  LINEA -----
+# 1 PTO
+
+# PREGUNTA 2---------------------------------------------------------------
+##Recibirás un archivo con el que tendrás que trabajar ( CANVAS)-----------
+## LEE los archivos y responda por cada URL:
+## Que tipo de Charset tiene UTF-8 ?
+## Cual es la aplicación del archivo XML, ?
+## Cual es el codigo de recibido 200 ?
+# 1 PTO
+
+# PREGUNTA 3---------------------------------------------------------------
+# Guarde en un archivo ( por cada url) con sus correspondientes extensiones 
+# en el directorio de trabajo, los archivos de llamaran f0.xxx --------
+# 1 PTO
+
+# PREGUNTA 4---------------------------------------------------------------
+# Lea los archivos con la libreria correspondiente de tidyverse y guardelos 
+# en variables (r_xxx)
+# 1 PUNTO
+
+# PREGUNTA 5---------------------------------------------------------------
+# Guarde el archivo de las galineras como un tibble en la variable ds
+# Cuantas observaciones tiene ?
+# Asegurese que los datos esten en su correcto formato, quite acentos, espacios
+# en blanco.
+#1 PUNTO
+
